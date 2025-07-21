@@ -17,7 +17,7 @@ class Program
             
             if (userPassword == correctPassword)
             {
-                Console.WriteLine("✅ Вхід успішний. Ласкаво просимо!");
+                Console.WriteLine(" Вхід успішний. Ласкаво просимо!");
             }
             else
             {
@@ -29,7 +29,7 @@ class Program
             Console.WriteLine(" Невірний логін.");
         }
 
-        Console.WriteLine("Натисніть будь-яку клавішу для виходу...");
+        Console.WriteLine("Натисніть будь-яку клавішу для виходу");
         Console.ReadKey();
     }
 }
