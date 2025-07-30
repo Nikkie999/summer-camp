@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\Day7.csproj": {}
+    "C:\\Users\\nik\\summer-camp\\Day6\\Day6\\Day6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\Day7.csproj": {
+    "C:\\Users\\nik\\summer-camp\\Day6\\Day6\\Day6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\Day7.csproj",
-        "projectName": "Day7",
-        "projectPath": "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\Day7.csproj",
+        "projectUniqueName": "C:\\Users\\nik\\summer-camp\\Day6\\Day6\\Day6.csproj",
+        "projectName": "Day6",
+        "projectPath": "C:\\Users\\nik\\summer-camp\\Day6\\Day6\\Day6.csproj",
         "packagesPath": "C:\\Users\\nik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\obj\\",
+        "outputPath": "C:\\Users\\nik\\summer-camp\\Day6\\Day6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nik\\AppData\\Roaming\\NuGet\\NuGet.Config"

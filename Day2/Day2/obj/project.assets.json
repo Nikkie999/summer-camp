@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\Day7.csproj",
-      "projectName": "Day7",
-      "projectPath": "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\Day7.csproj",
+      "projectUniqueName": "C:\\Users\\nik\\summer-camp\\Day2\\Day2\\Day2.csproj",
+      "projectName": "Day2",
+      "projectPath": "C:\\Users\\nik\\summer-camp\\Day2\\Day2\\Day2.csproj",
       "packagesPath": "C:\\Users\\nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nik\\summer-camp\\Day7\\Day7\\obj\\",
+      "outputPath": "C:\\Users\\nik\\summer-camp\\Day2\\Day2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nik\\AppData\\Roaming\\NuGet\\NuGet.Config"
